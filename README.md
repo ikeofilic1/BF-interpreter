@@ -1,6 +1,6 @@
 # Brainfuck Interpreter in C++
 This is a simple interpreter for the [brainf*ck](https://en.wikipedia.org/wiki/Brainfuck) [esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language) written in C++.  
-I have provided example brainf\*ck files (ending in .bf) in case you want to test this interpreter but don't know anything about the language.  
+I have provided example brainf\*ck files (ending in .b) in case you want to test this interpreter but don't know anything about the language.  
 
 So, something like:  
 ![Sample image of interpreting a file](./examples/runningdvorak.png)  
